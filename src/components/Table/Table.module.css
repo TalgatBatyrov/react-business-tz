@@ -1,0 +1,41 @@
+.table {
+    width: 1077px;
+    height: 930px;
+    border-right: 1px solid #E3E6EC;
+    border-left: 1px solid #E3E6EC;
+    position: relative;
+}
+
+.tableHeader {
+    color: #fff;
+    width: 1077px;
+    height: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #474955;
+    box-shadow: 0px 4px 27px rgba(230, 231, 234, 0.78);
+}
+
+.tableIdList {
+    width: 110px;
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
+
+.tableTitleList {
+    width: 529px;
+    display: flex;
+    justify-content: center;
+    gap: 34px;
+    cursor: pointer;
+}
+
+.tableBodyList {
+    width: 433px;
+    display: flex;
+    justify-content: center;
+    gap: 34px;
+    cursor: pointer;
+}

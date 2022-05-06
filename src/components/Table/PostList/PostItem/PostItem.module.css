@@ -1,0 +1,36 @@
+.tableData {
+    display: flex;
+    width: 1077px;
+    border-bottom: 1px solid #E3E6EC;
+}
+
+.itemId {
+    width: 110px;
+    height: 87px;
+    display: flex;
+    font-size: 13px;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #E3E6EC;
+}
+
+.itemTitle {
+    display: flex;
+    padding: 15px;
+    height: 87px;
+    font-size: 13px;
+    align-items: center;
+    justify-content: start;
+    width: 529px;
+    border-right: 1px solid #E3E6EC;
+}
+
+.itemBody {
+    padding: 15px;
+    width: 433px;
+    height: 87px;
+    display: flex;
+    font-size: 13px;
+    align-items: center;
+    justify-content: start;
+}

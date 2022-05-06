@@ -1,0 +1,25 @@
+.searchBar {
+    width: 631px;
+    height: 52px;
+    background: #5A5C66;
+    margin-bottom: 15px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.searchBar input {
+    width: 550px;
+    height: 35px;
+    background: #5A5C66;
+    padding: 10px;
+    color: #B3B7BF;
+    border: none;
+    outline: none;
+}
+
+.searchBar img {
+    width: 21px;
+    height: 21px;
+}

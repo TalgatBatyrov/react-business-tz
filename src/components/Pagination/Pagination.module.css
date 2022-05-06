@@ -1,0 +1,36 @@
+.pagination {
+    display: flex;
+    padding: 0 30px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 24px;
+}
+
+.paginationBack,
+.paginationNext {
+    font-size: 24px;
+    font-weight: 500;
+    color: #474955;
+    cursor: pointer;
+}
+
+.pages {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.selectedPage {
+    color: #7EBC3C;
+    margin: 0 5px;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.not-found {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
